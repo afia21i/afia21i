@@ -1,16 +1,15 @@
 ## Hi there 👋
+## I'm Afia Mahmud Roshni 👋
 
-<!--
-**afia21i/afia21i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Links
+- GitHub: https://github.com/afia21i
+- LinkedIn:
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Python
+- Django
+- REST API
+- HTML, CSS, JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Email: roshniafia253@gmail.com
